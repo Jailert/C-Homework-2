@@ -27,7 +27,7 @@ if (days(a))
     {
         Console.WriteLine("Today is Weekend");
     }
-    else if (a ==7)
+    else if (a == 7)
     {
         Console.WriteLine("Today is Weekend");
     }
